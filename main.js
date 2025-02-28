@@ -24,7 +24,7 @@ async function generateQRCode() {
 }
 
 function autoClearText() {
-  // Clear text after generate QR code
+  // Bersihkan teks setelah membuat kode QR
   document.getElementById("text").value = "";
 }
 
